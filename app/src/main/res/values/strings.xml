@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Belajar_CRUD_Trisna_Sejati</string>
+    <string name="todo">TODO</string>
+    <string name="nama_lengkap">Nama lengkap</string>
+    <string name="alamat_email">Alamat email</string>
+    <string name="nomor_telepon">Nomor telepon</string>
+    <string name="button">Button</string>
+    <string name="simpan">simpan</string>
+    <string-array name="items_option">
+        <item>Ubah</item>
+        <item>Hapus</item>
+        <item>Batal</item>
+    </string-array>
+</resources>
